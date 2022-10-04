@@ -1,0 +1,13 @@
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-link:hover {
+    background-color: blanchedalmond;
+}
+
+@media (max-width: 575px) {
+    div.container {
+        width: 75vw;
+    }
+}
